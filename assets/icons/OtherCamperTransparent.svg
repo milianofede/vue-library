@@ -1,0 +1,22 @@
+<svg id="cd10bd18-55a0-4de8-bc19-59ec983adfc2" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 130 130">
+  <defs>
+    <style>.other-trans-1,.other-trans-2{fill:none;stroke:#242d3c;}.\32
+      0e37c89-da4b-4fb0-a936-8ee803ce252b{stroke-linecap:round;}
+    </style>
+  </defs>
+  <title>MyCamper</title>
+  <g id="0b7ea1a4-ca17-4e4b-baeb-9df342698fc6" data-name="Others">
+    <circle class="other-trans-2" cx="35.5" cy="109" r="11.5"/>
+    <circle class="other-trans-2" cx="95" cy="108" r="11.5"/>
+    <line class="other-trans-2" x1="84" y1="108.5" x2="47" y2="108.5"/>
+    <polygon class="other-trans-2" points="47 78.5 33.5 78.5 22 78.5 22 62.5 47 62.5 47 78.5"/>
+    <path class="other-trans-2" d="M15,92H7.5a2,2,0,0,1-2-2V67.5a2,2,0,0,1,2-2H15"/>
+    <line class="other-trans-2" x1="15" y1="53.82" x2="76" y2="53.82"/>
+    <path class="other-trans-1" d="M41.51,9.23L96.25,79.5H118.5a2,2,0,0,1,2,2v19h3v8H107"/>
+    <polygon class="other-trans-2" points="56 78.5 84.46 78.5 72.53 62.82 56 62.82 56 78.5"/>
+    <polyline class="other-trans-1"
+              points="49.49 9.23 15 53.82 15 100.5 12 100.5 12 108.5 24 108.5"/>
+    <polyline class="other-trans-2" points="34.19 53.81 45.59 37.81 57.4 53.9"/>
+  </g>
+</svg>

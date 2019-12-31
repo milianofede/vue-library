@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 16 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     shape-rendering="geometricPrecision">
+  <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+  <title>place</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="Symbols" stroke-width="1" fill-rule="evenodd">
+    <g id="Filter" transform="translate(-3.000000, -197.000000)" fill-rule="nonzero">
+      <g id="place" transform="translate(3.000000, 197.000000)">
+        <path d="M7.83828797,20.0605323 L13.7187437,12.1298267 C15.9070575,9.40592019 15.5877028,4.88879517 13.0393652,2.50939158 L13.039338,2.50936618 C11.6523827,1.2141615 9.80620849,0.5 7.83829307,0.5 C5.87012289,0.5 4.02431255,1.21405959 2.63722096,2.50939158 C0.0905250132,4.88726237 -0.231876031,9.40416261 1.96028261,12.1333328 L7.83828797,20.0605323 Z" id="Shape"></path>
+        <path d="M7.8375,3.91875 C5.67714911,3.91875 3.91875,5.67714911 3.91875,7.8375 C3.91875,9.99785089 5.67714911,11.75625 7.8375,11.75625 C9.99785089,11.75625 11.75625,9.99785089 11.75625,7.8375 C11.75625,5.67714911 9.99785089,3.91875 7.8375,3.91875 Z" id="Shape" fill="#FFF"></path>
+      </g>
+    </g>
+  </g>
+</svg>

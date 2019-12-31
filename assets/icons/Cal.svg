@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>cal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="Filter" transform="translate(-1.000000, -54.000000)">
+            <path d="M17.8421053,56 L19,56 C20.1045695,56 21,56.8954305 21,58 L21,73 C21,74.1045695 20.1045695,75 19,75 L3,75 C1.8954305,75 1,74.1045695 1,73 L1,58 C1,56.8954305 1.8954305,56 3,56 L4.15789474,56 L4.15789474,54 L6.26315789,54 L6.26315789,56 L15.7368421,56 L15.7368421,54 L17.8421053,54 L17.8421053,56 Z M3.10526316,61 L3.10526316,73 L18.8947368,73 L18.8947368,61 L3.10526316,61 Z" id="cal"></path>
+        </g>
+    </g>
+</svg>

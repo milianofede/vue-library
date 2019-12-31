@@ -4,5 +4,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "e79f4e4a5c7f2e3a19cf4bf7d865a305f58ee8ee"
+  "gitHead": "e79f4e4a5c7f2e3a19cf4bf7d865a305f58ee8ee",
+  "dependencies": {
+    "@milianofede/svgicon": "^0.0.0"
+  }
 }

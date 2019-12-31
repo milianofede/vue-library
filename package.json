@@ -10,11 +10,16 @@
     "babel-loader": "^8.0.6",
     "babel-preset-vue": "^2.0.2",
     "lerna": "^3.19.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.2.0",
     "vue-loader": "^15.8.3",
     "vue-template-compiler": "^2.6.11"
   },
   "dependencies": {
-    "vue": "^2.6.11"
+    "bootstrap": "^4.2.1",
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "vue": "^2.6.11",
+    "vue-svg-loader": "^0.12.0"
   },
   "scripts": {
     "storybook": "start-storybook -p 6006",

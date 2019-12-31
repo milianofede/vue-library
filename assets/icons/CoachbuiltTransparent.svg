@@ -1,0 +1,21 @@
+<svg id="91cad18e-b27c-496b-8a7b-2c45f9b1c6cf" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 130 130">
+  <defs>
+    <style>.coachbuild-trans-class-1{fill:none;stroke:#242d3c;}
+    </style>
+  </defs>
+  <title>MyCamper</title>
+  <g id="e794cf10-3e2c-4f9b-8e55-b1eb8abdfec7" data-name="Coachbuilt">
+    <path class=""
+          d="M83.5,52h34V28.5a6,6,0,0,0-6-6H87.33a16,16,0,0,0-9.6,3.2L66,34.5H6.5a2,2,0,0,0-2,2V86L13,93.5h9.33"/>
+    <path class="coachbuild-trans-class-1"
+          d="M108.5,93.5h15a2,2,0,0,0,2-2V76.26a2,2,0,0,0-1.1-1.79,62.26,62.26,0,0,1-24.73-22"/>
+    <line class="coachbuild-trans-class-1" x1="40.33" y1="93.5" x2="92" y2="93.5"/>
+    <circle class="coachbuild-trans-class-1" cx="31" cy="93.5" r="8.5"/>
+    <circle class="coachbuild-trans-class-1" cx="100" cy="93.5" r="8.5"/>
+    <rect class="coachbuild-trans-class-1" x="18.5" y="52.5" width="21" height="15"/>
+    <path class="coachbuild-trans-class-1" d="M57.5,93V54.5a2,2,0,0,1,2-2h13a2,2,0,0,1,2,2V93"/>
+    <rect class="coachbuild-trans-class-1" x="92.5" y="32.5" width="16" height="10"/>
+    <polyline class="coachbuild-trans-class-1" points="112.44 67 91.5 67 91.5 52"/>
+  </g>
+</svg>

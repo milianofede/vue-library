@@ -1,0 +1,23 @@
+<svg id="069f9903-13a5-4328-969a-be68bc83ea19" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 130 130">
+  <defs>
+    <style>
+      .elementummer1,.elementummer2,.elementummer3{fill:none;stroke:#242d3c;}
+      .elementummer1,.elementummer3{stroke-miterlimit:10;}
+      .elementummer2{stroke-linejoin:round;}
+      .elementummer3{stroke-linecap:round;}
+    </style>
+  </defs>
+  <title>MyCamper</title>
+  <g id="01914274-7e76-4c42-897b-8760c1f587c6" data-name="Camping Bus">
+    <line class="elementummer1" x1="89.25" y1="102.5" x2="42.5" y2="102.5"/>
+    <path class="elementummer1"
+          d="M8,48h93.67a2,2,0,0,1,1.84,1.22,143.89,143.89,0,0,0,8.74,17.28,143.88,143.88,0,0,0,10.82,15.75,2,2,0,0,1,.43,1.23v17a2,2,0,0,1-2,2h-15"/>
+    <circle class="elementummer1" cx="34" cy="103" r="8.5"/>
+    <circle class="elementummer1" cx="98" cy="103" r="8.5"/>
+    <line class="elementummer2" x1="89.5" y1="47.5" x2="89.5" y2="22"/>
+    <polyline class="elementummer3" points="25 102.5 8.5 102.5 8.5 47.75 94.96 18.93"/>
+    <polyline class="elementummer1" points="107.49 57.5 89.5 57.5 89.5 73.5 116.42 73.5"/>
+    <rect class="elementummer1" x="35.5" y="57.5" width="44" height="16"/>
+  </g>
+</svg>
