@@ -78,10 +78,10 @@
 </template>
 
 <script>
-import Svgicon from '../Svgicon/Svgicon'
+import Svgicon from '@milianofede/svgicon/Svgicon'
 export default {
   components: {
-    Svgicon,
+    Svgicon
   },
   props: {
     camper: {
