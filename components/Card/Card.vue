@@ -78,7 +78,7 @@
 </template>
 
 <script>
-import Svgicon from '@milianofede/svgicon/Svgicon'
+import Svgicon from '@milianofede/svgicon/Svgicon.vue'
 export default {
   components: {
     Svgicon
