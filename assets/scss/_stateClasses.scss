@@ -1,0 +1,44 @@
+@import './bootstrap-custom/bootstrap-variable-override.scss';
+
+$states: (
+  0: $primary,
+  1: $secondary,
+  2: $primary,
+  3: $secondary,
+  40: #DA3C6C,
+  41: #DA3C6C,
+  42: #DA3C6C,
+  43: #DA3C6C,
+  44: #DA3C6C,
+  45: #DA3C6C,
+  5: $grey
+);
+
+$stateNames: (
+  new: $primary,
+  accepted: $secondary,
+  instant_created: $secondary,
+  completed-unpaid: $primary,
+  completed_pre_start: $secondary,
+  completed_ongoing: $secondary,
+  completed_ended: $secondary,
+  host_rejected: #DA3C6C,
+  guest_retracted: #DA3C6C,
+  guest_cancelled: #DA3C6C,
+  cancelled: #DA3C6C,
+  deleted: #DA3C6C,
+  expired: #DA3C6C,
+  own_use: $grey
+);
+
+@each $state, $color in $states {
+  .state-color-#{$state} {
+    color: $color !important;
+  }
+}
+
+@each $name, $color in $stateNames {
+  .state-color-#{name} {
+    color: $color !important;
+  }
+}

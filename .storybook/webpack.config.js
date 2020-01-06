@@ -16,6 +16,10 @@ module.exports = ({config}) => {
         'vue-svg-loader',
       ],
     });    
+    config.module.rules.push({
+      test: /\.(woff2?|eot|ttf|otf)(\?.*)?$/,
+      loader: 'file-loader',
+    });    
     return config;
 };
 

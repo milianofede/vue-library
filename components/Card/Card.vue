@@ -31,7 +31,7 @@
                 width="32"/>
     </div>      
     <b-row class="icons">
-      <b-col cols="2">
+      <b-col cols="4">
         <svgicon class="mr-2"
           fill="true"
           icon="Seat"
@@ -40,7 +40,7 @@
         />
         <span class="number">4</span>
       </b-col>
-      <b-col cols="2">
+      <b-col cols="4">
         <svgicon class="mr-2"
           fill="true"
           icon="BedSolid"
@@ -51,15 +51,15 @@
       </b-col>
     </b-row>
     <b-row>
-      <b-col cols="10" class="location">
+      <b-col cols="20" class="location">
         <span>{{camper.location}} ({{camper.kms}})</span>
       </b-col>
-      <b-col cols="2" class="col-right">
+      <b-col cols="4" class="col-right">
         <span>{{camper.price}}.-</span>
       </b-col>
     </b-row>
     <b-row>
-      <b-col cols="9">
+      <b-col cols="18">
         <svgicon v-for="n in 5"
           :key="'rating-' + n"
           icon="Star"

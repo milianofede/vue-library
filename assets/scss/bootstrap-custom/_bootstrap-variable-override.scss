@@ -1,0 +1,51 @@
+// Grid settings
+$grid-columns: 24;
+$grid-gutter-width: 20px;
+
+// Tab Settings
+$nav-tabs-border-radius: 0;
+$nav-tabs-border-color: #333;
+$nav-tabs-link-active-border-color: #333;
+$nav-tabs-link-active-color: #333;
+
+// Color settings
+$light: rgb(244, 244, 244);
+$primary: #F15424;
+$secondary: #2CA6AE;
+$secondary-alternative: #2AB2B8;
+$grey: #999;
+$lightgrey: #dcdcdc;
+$selected:  #EDEBEB;
+$custom-control-indicator-checked-bg: $secondary;
+$mycamper-black: #242D3C;
+$title-color: #042F42;
+$fbpurple: #615EEC;
+$tooltip-arrow-color: $grey;
+$tooltip-bg: white;
+$tooltip-color: $mycamper-black;
+$background-color: #edeced;
+$admin-background-color: #edeced;
+$host-background-color: #d5dfe7;
+$popover-bg: $background-color;
+
+// Misc. settings
+$font-family-sans-serif: "Helvetica Neue", Arial, sans-serif;
+
+// Button settings
+$btn-border-radius: 2px;
+$btn-border-radius-lg: 2px;
+$btn-border-radius-md: 2px;
+$btn-border-radius-sm: 2px;
+
+// Breakpoints
+$sm: 576px;
+$md: 768px;
+$lg: 992px;
+$xl: 1200px;
+$modal-breakpoint: $lg;
+
+$custom-control-gutter: 1.5rem;
+$custom-control-indicator-bg: #dee2e6;
+
+// Form settings
+$custom-select-indicator: url('/img/triangle_white.png');
